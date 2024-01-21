@@ -1,0 +1,2 @@
+Hello, world. This is the first real assignment in The Odin Project.
+I expect things to get far more challenging.
